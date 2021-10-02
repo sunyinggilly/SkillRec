@@ -25,7 +25,8 @@ If you use our models, please cite the following paper:
 @inproceedings{sun2021cost,
   title={Cost-Effective and Interpretable Job Skill Recommendation with Deep Reinforcement Learning},
   author={Sun, Ying and Zhuang, Fuzhen and Zhu, Hengshu and He, Qing and Xiong, Hui},
-  booktitle={The World Wide Web Conference},
+  booktitle={Proceedings of the Web Conference 2021},
+  pages={3827--3838},
   year={2021}
 }
 ```
